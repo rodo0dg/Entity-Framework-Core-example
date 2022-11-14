@@ -1,0 +1,12 @@
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\bin\Debug\net6.0\WizLib_Model.deps.json
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\bin\Debug\net6.0\WizLib_Model.dll
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\bin\Debug\net6.0\WizLib_Model.pdb
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.csproj.AssemblyReference.cache
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.AssemblyInfoInputs.cache
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.AssemblyInfo.cs
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.dll
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\obj\Debug\net6.0\refint\WizLib_Model.dll
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.pdb
+C:\Users\rodolfo.delgado\source\repos\WizLib\WizLib_Model\obj\Debug\net6.0\ref\WizLib_Model.dll
